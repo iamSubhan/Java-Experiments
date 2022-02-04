@@ -1,6 +1,9 @@
 # Java-Experiments
 
-Method Parameter:
-  1) Sign of integer
-  2) Grades
-  3) Printing Triangle
+Nested For-Loops:
+  1) triangle of stars
+
+Method Parameters:
+  1) sign of integer
+  2) grades
+  3) printing triangle
